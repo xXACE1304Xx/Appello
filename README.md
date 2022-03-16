@@ -1,6 +1,6 @@
 # Appello
 Proposta prof.ssa C. Pellecchia - Rilevazione automatica delle presenze in classe (Appello)
-L'applicazione una volta avviata da un utente di tipo "Docente" (potrà selezionare l'orario di entrata che di base sarà settato alle 8:00) visualizzerà una lista "Alunni assenti",
+\nL'applicazione una volta avviata da un utente di tipo "Docente" (potrà selezionare l'orario di entrata che di base sarà settato alle 8:00) visualizzerà una lista "Alunni assenti",
 man mano che ogni alunno confermerà la propria identità tramite un dispositi NFC il suo nome verrà eliminato dalla lista "Alunni assenti". Passati 10 minuti (ovviamente il tempo
 potrà essere modificato dai docenti), gli alunni che si autenticheranno successivamente andranno nella lista "Alunni in ritardo" con accanto l'orario di autenticazione e i minuti
 di ritardo.
